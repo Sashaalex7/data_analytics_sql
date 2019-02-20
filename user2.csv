@@ -1,0 +1,139 @@
+userID,drink_level,dress_preference,ambience,hijos,interest,personality,religion,activity,budget
+1001,abstemious,informal,family,independent,variety,thrifty-protector,none,student,medium
+1002,abstemious,informal,family,independent,technology,hunter-ostentatious,Catholic,student,low
+1003,social drinker,formal,family,independent,none,hard-worker,Catholic,student,low
+1004,abstemious,informal,family,independent,variety,hard-worker,none,professional,medium
+1005,abstemious,no preference,family,independent,none,thrifty-protector,Catholic,student,medium
+1006,social drinker,no preference,friends,independent,variety,hard-worker,none,student,medium
+1007,casual drinker,informal,solitary,independent,variety,thrifty-protector,Catholic,student,low
+1008,social drinker,formal,solitary,independent,technology,hard-worker,Catholic,student,low
+1009,abstemious,formal,family,kids,variety,thrifty-protector,Catholic,student,medium
+1010,social drinker,no preference,friends,kids,technology,hard-worker,none,student,medium
+1011,abstemious,no preference,family,independent,variety,hard-worker,Catholic,student,medium
+1012,casual drinker,formal,family,independent,technology,hard-worker,Catholic,student,medium
+1013,abstemious,no preference,friends,independent,retro,thrifty-protector,none,professional,medium
+1014,abstemious,NA,friends,independent,none,hard-worker,Catholic,student,medium
+1015,social drinker,informal,family,independent,technology,thrifty-protector,Catholic,student,medium
+1016,casual drinker,informal,friends,independent,eco-friendly,thrifty-protector,Catholic,student,medium
+1017,casual drinker,formal,family,NA,retro,hunter-ostentatious,none,professional,medium
+1018,casual drinker,formal,friends,independent,technology,thrifty-protector,Christian,student,low
+1019,casual drinker,no preference,family,independent,variety,thrifty-protector,Catholic,student,medium
+1020,abstemious,no preference,friends,independent,technology,hard-worker,Catholic,professional,medium
+1021,social drinker,no preference,family,dependent,none,hard-worker,Catholic,student,medium
+1022,casual drinker,formal,family,independent,variety,hard-worker,Catholic,student,medium
+1023,casual drinker,informal,friends,independent,none,hard-worker,Catholic,student,low
+1024,abstemious,NA,?,NA,none,hard-worker,none,NA,?
+1025,social drinker,no preference,family,NA,none,thrifty-protector,Catholic,student,medium
+1026,abstemious,formal,family,independent,technology,hunter-ostentatious,Catholic,student,medium
+1027,social drinker,no preference,NA,independent,retro,thrifty-protector,Catholic,student,low
+1028,abstemious,no preference,family,independent,variety,hard-worker,Christian,student,medium
+1029,casual drinker,formal,family,independent,variety,conformist,Catholic,student,low
+1030,casual drinker,formal,family,independent,eco-friendly,hard-worker,Catholic,student,medium
+1031,abstemious,informal,solitary,kids,none,hard-worker,Catholic,unemployed,medium
+1032,abstemious,formal,family,independent,variety,hard-worker,Catholic,student,medium
+1033,social drinker,no preference,family,NA,none,hard-worker,none,student,low
+1034,casual drinker,informal,family,independent,technology,thrifty-protector,Catholic,student,medium
+1035,casual drinker,no preference,friends,independent,variety,hunter-ostentatious,none,student,medium
+1036,social drinker,informal,family,independent,none,hard-worker,Catholic,student,medium
+1037,social drinker,no preference,family,independent,variety,thrifty-protector,Catholic,student,low
+1038,social drinker,no preference,family,independent,variety,thrifty-protector,Catholic,student,low
+1039,social drinker,no preference,friends,independent,none,hard-worker,none,student,medium
+1040,abstemious,no preference,friends,independent,none,thrifty-protector,Catholic,student,medium
+1041,abstemious,no preference,friends,independent,eco-friendly,hunter-ostentatious,Catholic,professional,medium
+1042,abstemious,no preference,family,independent,technology,thrifty-protector,Christian,student,high
+1043,abstemious,no preference,solitary,independent,technology,hard-worker,none,student,medium
+1044,social drinker,informal,family,kids,variety,thrifty-protector,Catholic,professional,medium
+1045,casual drinker,elegant,friends,independent,technology,thrifty-protector,Mormon,student,high
+1046,social drinker,no preference,friends,independent,retro,hard-worker,Catholic,student,medium
+1047,abstemious,no preference,family,independent,retro,thrifty-protector,Catholic,student,medium
+1048,casual drinker,no preference,NA,independent,eco-friendly,thrifty-protector,none,student,medium
+1049,casual drinker,informal,solitary,NA,none,hard-worker,none,student,?
+1050,social drinker,no preference,family,independent,variety,hard-worker,none,student,medium
+1051,casual drinker,no preference,family,independent,variety,thrifty-protector,none,professional,medium
+1052,social drinker,no preference,family,independent,none,conformist,Catholic,student,low
+1053,casual drinker,informal,family,independent,variety,thrifty-protector,Catholic,student,low
+1054,social drinker,formal,family,independent,technology,thrifty-protector,Catholic,student,medium
+1055,abstemious,no preference,family,dependent,none,hard-worker,Catholic,professional,medium
+1056,social drinker,informal,family,independent,none,hard-worker,Catholic,student,medium
+1057,casual drinker,formal,friends,independent,technology,hunter-ostentatious,Catholic,student,medium
+1058,abstemious,formal,family,independent,variety,hard-worker,Catholic,student,low
+1059,abstemious,formal,friends,independent,technology,thrifty-protector,Catholic,student,medium
+1060,casual drinker,formal,family,independent,technology,thrifty-protector,Catholic,student,medium
+1061,social drinker,no preference,friends,independent,none,hard-worker,Catholic,professional,medium
+1062,casual drinker,informal,friends,independent,variety,hard-worker,Catholic,student,medium
+1063,casual drinker,formal,family,independent,eco-friendly,conformist,Catholic,student,medium
+1064,casual drinker,formal,solitary,independent,variety,hunter-ostentatious,none,student,medium
+1065,abstemious,formal,friends,independent,technology,conformist,Catholic,student,medium
+1066,abstemious,informal,solitary,NA,technology,thrifty-protector,Catholic,student,low
+1067,abstemious,no preference,family,independent,technology,thrifty-protector,Christian,student,medium
+1068,casual drinker,informal,friends,independent,technology,thrifty-protector,Catholic,student,low
+1069,social drinker,no preference,family,independent,variety,thrifty-protector,Catholic,professional,medium
+1070,casual drinker,informal,friends,independent,variety,thrifty-protector,Catholic,student,low
+1071,abstemious,formal,friends,independent,none,hunter-ostentatious,none,student,high
+1072,casual drinker,no preference,family,independent,eco-friendly,thrifty-protector,Christian,student,medium
+1073,abstemious,informal,solitary,kids,none,hard-worker,none,unemployed,medium
+1074,casual drinker,no preference,family,kids,eco-friendly,hard-worker,Catholic,professional,medium
+1075,casual drinker,informal,family,independent,technology,thrifty-protector,Catholic,student,medium
+1076,social drinker,elegant,family,kids,technology,thrifty-protector,Catholic,student,medium
+1077,social drinker,elegant,family,kids,technology,thrifty-protector,Catholic,student,medium
+1078,social drinker,informal,solitary,independent,variety,hard-worker,Catholic,professional,medium
+1079,abstemious,formal,family,independent,technology,thrifty-protector,Catholic,NA,medium
+1080,social drinker,formal,friends,independent,variety,hard-worker,Catholic,student,low
+1081,casual drinker,informal,family,independent,variety,hard-worker,Catholic,student,low
+1082,abstemious,informal,friends,NA,variety,hard-worker,Catholic,student,medium
+1083,abstemious,NA,?,NA,none,hard-worker,none,NA,?
+1084,casual drinker,formal,family,independent,variety,thrifty-protector,Catholic,student,medium
+1085,abstemious,no preference,solitary,independent,technology,thrifty-protector,Catholic,student,?
+1086,social drinker,no preference,family,independent,variety,hunter-ostentatious,Catholic,student,medium
+1087,abstemious,no preference,solitary,independent,variety,thrifty-protector,Catholic,student,medium
+1088,social drinker,informal,family,independent,none,hard-worker,Catholic,student,medium
+1089,casual drinker,informal,family,independent,variety,conformist,Catholic,student,low
+1090,social drinker,no preference,friends,independent,variety,thrifty-protector,Catholic,student,medium
+1091,casual drinker,no preference,family,independent,eco-friendly,thrifty-protector,none,student,low
+1092,abstemious,formal,solitary,dependent,variety,thrifty-protector,Catholic,NA,medium
+1093,casual drinker,no preference,family,independent,variety,thrifty-protector,Catholic,student,medium
+1094,abstemious,informal,friends,independent,variety,thrifty-protector,Catholic,student,medium
+1095,abstemious,formal,family,independent,variety,thrifty-protector,Catholic,student,medium
+1096,abstemious,formal,family,independent,eco-friendly,hard-worker,Catholic,student,medium
+1097,abstemious,formal,family,independent,variety,hard-worker,Catholic,student,medium
+1098,social drinker,formal,family,independent,none,thrifty-protector,Catholic,student,medium
+1099,social drinker,informal,family,independent,technology,conformist,Catholic,student,high
+1100,casual drinker,formal,friends,independent,eco-friendly,hard-worker,Christian,student,medium
+1101,casual drinker,no preference,friends,independent,eco-friendly,hunter-ostentatious,Catholic,student,low
+1102,social drinker,no preference,friends,independent,eco-friendly,conformist,none,student,low
+1103,abstemious,formal,friends,independent,technology,hard-worker,Jewish,professional,medium
+1104,social drinker,no preference,family,independent,technology,hunter-ostentatious,Catholic,student,medium
+1105,social drinker,formal,family,independent,variety,hard-worker,Christian,student,medium
+1106,casual drinker,informal,friends,independent,technology,hard-worker,Catholic,professional,medium
+1107,abstemious,no preference,friends,independent,variety,hard-worker,Catholic,NA,high
+1108,abstemious,informal,solitary,independent,technology,thrifty-protector,Catholic,student,medium
+1109,abstemious,formal,solitary,independent,eco-friendly,thrifty-protector,Catholic,student,low
+1110,abstemious,no preference,family,independent,variety,thrifty-protector,Catholic,student,medium
+1111,casual drinker,formal,friends,independent,none,hard-worker,Catholic,student,medium
+1112,casual drinker,formal,friends,independent,none,hard-worker,Catholic,student,medium
+1113,casual drinker,formal,family,independent,none,thrifty-protector,Catholic,student,medium
+1114,abstemious,no preference,family,independent,variety,hard-worker,Catholic,student,medium
+1115,social drinker,elegant,friends,independent,variety,hard-worker,Catholic,student,low
+1116,social drinker,formal,family,kids,technology,thrifty-protector,Catholic,student,medium
+1117,abstemious,no preference,friends,independent,technology,thrifty-protector,Catholic,professional,medium
+1118,casual drinker,informal,friends,independent,technology,thrifty-protector,none,student,medium
+1119,abstemious,formal,family,independent,eco-friendly,thrifty-protector,Catholic,student,medium
+1120,abstemious,informal,friends,independent,variety,hard-worker,none,student,low
+1121,social drinker,no preference,family,independent,variety,thrifty-protector,Catholic,working-class,medium
+1122,abstemious,NA,?,NA,none,hard-worker,none,NA,?
+1123,abstemious,informal,family,independent,technology,hard-worker,Catholic,student,medium
+1124,casual drinker,informal,friends,independent,none,hard-worker,Catholic,student,low
+1125,casual drinker,formal,friends,independent,technology,hard-worker,Catholic,student,low
+1126,casual drinker,formal,friends,independent,technology,hard-worker,Catholic,student,low
+1127,abstemious,no preference,solitary,independent,variety,hard-worker,Catholic,student,low
+1128,casual drinker,no preference,friends,independent,variety,thrifty-protector,Catholic,student,low
+1129,casual drinker,no preference,friends,independent,variety,thrifty-protector,none,student,low
+1130,abstemious,NA,?,NA,none,hard-worker,none,NA,?
+1131,social drinker,no preference,friends,kids,eco-friendly,hard-worker,none,student,medium
+1132,casual drinker,informal,solitary,NA,none,hard-worker,none,student,?
+1133,abstemious,no preference,family,independent,none,hard-worker,none,student,medium
+1134,casual drinker,no preference,family,independent,variety,hard-worker,Catholic,student,medium
+1135,casual drinker,informal,family,kids,variety,hunter-ostentatious,Catholic,student,low
+1136,social drinker,no preference,friends,independent,retro,thrifty-protector,Catholic,student,low
+1137,social drinker,formal,family,independent,eco-friendly,hard-worker,Catholic,student,low
+1138,social drinker,formal,friends,independent,variety,thrifty-protector,none,student,medium

@@ -1,0 +1,131 @@
+placeID,name,alcohol,smoking_area,dress_code,accessibility,price,Rambience,franchise
+134999,Kiku Cuernavaca,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f
+132825,puesto de tacos,No_Alcohol_Served,none,informal,completely,low,familiar,f
+135106,El Rincon de San Francisco,Wine-Beer,only at bar,informal,partially,medium,familiar,f
+132667,little pizza Emilio Portes Gil,No_Alcohol_Served,none,informal,completely,low,familiar,t
+132613,carnitas_mata,No_Alcohol_Served,permitted,informal,completely,medium,familiar,t
+135040,Restaurant los Compadres,Wine-Beer,none,informal,no_accessibility,high,familiar,f
+132732,Taqueria EL amigo ,No_Alcohol_Served,none,casual,completely,low,familiar,f
+132875,shi ro ie,Wine-Beer,section,informal,no_accessibility,high,familiar,t
+132609,Pollo_Frito_Buenos_Aires,No_Alcohol_Served,not permitted,informal,completely,low,quiet,t
+135082,la Estrella de Dimas,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f
+135070,Restaurante 75,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f
+135069,Abondance Restaurante Bar,Wine-Beer,none,informal,no_accessibility,low,familiar,f
+135065,El angel Restaurante,Wine-Beer,section,informal,no_accessibility,high,familiar,f
+135076,Restaurante Pueblo Bonito,Wine-Beer,none,informal,no_accessibility,high,familiar,f
+135086,Mcdonalds Parque Tangamanga,No_Alcohol_Served,not permitted,informal,no_accessibility,medium,familiar,t
+132870,Tortas y hamburguesas el gordo,No_Alcohol_Served,not permitted,informal,no_accessibility,low,familiar,f
+132854,Sirlone,Wine-Beer,none,informal,completely,medium,familiar,f
+132937,rockabilly ,Full_Bar,section,informal,completely,low,quiet,f
+132856,Unicols Pizza,Wine-Beer,none,informal,completely,low,familiar,f
+132668,TACOS EL GUERO,No_Alcohol_Served,none,informal,completely,low,familiar,f
+135033,Restaurant El Muladar de Calzada,No_Alcohol_Served,section,informal,no_accessibility,medium,familiar,f
+132862,La Posada del Virrey,Wine-Beer,none,casual,completely,high,familiar,f
+134983,Restaurant and Bar and Clothesline Carlos N Charlies,Full_Bar,section,informal,no_accessibility,high,familiar,f
+132851,KFC,No_Alcohol_Served,not permitted,informal,completely,low,familiar,f
+135013,Giovannis,No_Alcohol_Served,none,informal,no_accessibility,low,familiar,f
+135042,Restaurant Oriental Express,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f
+132768,Mariscos Tia Licha,No_Alcohol_Served,not permitted,casual,partially,medium,familiar,t
+132561,cafe ambar,No_Alcohol_Served,none,informal,completely,low,familiar,f
+135045,Restaurante la Gran Via,Wine-Beer,none,casual,no_accessibility,high,familiar,f
+132847,don burguers,No_Alcohol_Served,none,informal,no_accessibility,low,familiar,f
+135054,Restaurante y Pescaderia Tampico,No_Alcohol_Served,none,informal,no_accessibility,high,familiar,f
+134975,Rincon del Bife,Full_Bar,section,informal,completely,high,familiar,f
+135053,La Fontana Pizza Restaurante and Cafe,No_Alcohol_Served,section,informal,no_accessibility,high,familiar,f
+135050,Restaurante la Estrella de Dima,Wine-Beer,none,informal,no_accessibility,high,familiar,f
+135025,El Rincon de San Francisco,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f
+135030,Preambulo Wifi Zone Cafe,No_Alcohol_Served,none,informal,no_accessibility,medium,quiet,f
+135057,El Herradero Restaurante and Bar,Wine-Beer,section,informal,no_accessibility,medium,familiar,f
+135079,Koye Sushi,No_Alcohol_Served,none,informal,no_accessibility,high,familiar,f
+134992,Restaurant Teely,Wine-Beer,section,casual,no_accessibility,high,familiar,f
+132954,la parroquia,No_Alcohol_Served,not permitted,informal,partially,medium,familiar,t
+135041,Luna Cafe,Wine-Beer,none,informal,no_accessibility,medium,familiar,f
+132608,Hamburguesas La perica,No_Alcohol_Served,permitted,informal,completely,low,quiet,t
+135046,Restaurante El Reyecito,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f
+132564,churchs,No_Alcohol_Served,none,informal,completely,low,familiar,f
+132869,Dominos Pizza,No_Alcohol_Served,not permitted,informal,no_accessibility,medium,familiar,f
+132925,el pueblito,Wine-Beer,not permitted,informal,completely,medium,familiar,f
+132955,emilianos,Wine-Beer,none,informal,completely,low,familiar,t
+135059,Restaurant Bar Hacienda los Martinez,Wine-Beer,section,informal,no_accessibility,medium,familiar,f
+135001,Vips,Wine-Beer,none,informal,completely,medium,familiar,t
+135063,Restaurante Alhondiga,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f
+135080,los Toneles,No_Alcohol_Served,section,informal,no_accessibility,high,familiar,f
+135000,Restaurant los Pinos,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f
+135066,Restaurante Guerra,Wine-Beer,section,informal,no_accessibility,high,familiar,f
+135034,Michiko Restaurant Japones,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f
+135060,Restaurante Marisco Sam,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f
+135055,la Cochinita Pibil Restaurante Yucateco,No_Alcohol_Served,section,informal,no_accessibility,high,familiar,f
+135108,Potzocalli,No_Alcohol_Served,none,informal,completely,low,familiar,f
+135074,Restaurante la Parroquia Potosina,Wine-Beer,section,informal,no_accessibility,high,familiar,f
+135018,El Oceano Dorado,Full_Bar,permitted,informal,completely,medium,familiar,f
+135064,Restaurante El Chivero S.A. de C.V.,No_Alcohol_Served,none,informal,no_accessibility,high,familiar,f
+135038,Restaurant la Chalita,No_Alcohol_Served,section,informal,no_accessibility,medium,familiar,f
+135081,El Club,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f
+132723,Gordas de morales,Full_Bar,section,informal,completely,medium,familiar,f
+135051,Restaurante Versalles,No_Alcohol_Served,section,informal,no_accessibility,low,familiar,f
+135021,Subway,No_Alcohol_Served,not permitted,informal,no_accessibility,low,familiar,t
+135052,La Cantina Restaurante,Full_Bar,none,informal,no_accessibility,high,familiar,f
+132845,Cenaduria El Rincón de Tlaquepaque,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f
+135011,Los Vikingos,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,t
+132858,Hamburguesas Valle Dorado,No_Alcohol_Served,none,informal,completely,low,familiar,f
+135026,la Cantina,Full_Bar,none,informal,no_accessibility,high,familiar,f
+132884,dairy queen,No_Alcohol_Served,none,informal,completely,low,familiar,f
+135016,Arrachela Grill,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f
+135104,vips,Full_Bar,not permitted,informal,completely,medium,familiar,t
+132630,palomo tec,No_Alcohol_Served,none,informal,completely,low,familiar,f
+135047,Restaurante Casa de las Flores,Wine-Beer,section,informal,no_accessibility,high,familiar,f
+132951,VIPS,No_Alcohol_Served,not permitted,casual,completely,low,familiar,f
+132665,TACOS CORRECAMINOS,No_Alcohol_Served,none,informal,completely,low,familiar,f
+135044,Restaurant Wu Zhuo Yi,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f
+135035,El Mundo de la Pasta,No_Alcohol_Served,section,informal,no_accessibility,high,familiar,f
+135071,Restaurante la Cantina,Full_Bar,section,informal,no_accessibility,medium,familiar,f
+132834,Gorditas Doa Gloria,No_Alcohol_Served,not permitted,casual,no_accessibility,low,familiar,f
+132846,el lechon potosino ,No_Alcohol_Served,permitted,casual,no_accessibility,low,familiar,f
+135048,Restaurante Bar Fu-hao,Wine-Beer,none,informal,no_accessibility,high,familiar,f
+132717,tortas hawai,No_Alcohol_Served,not permitted,informal,partially,medium,familiar,f
+132861,Carls Jr,No_Alcohol_Served,not permitted,informal,completely,medium,familiar,t
+132885,Hamburguesas saul,No_Alcohol_Served,none,informal,completely,low,familiar,f
+132740,Carreton de Flautas y Migadas,No_Alcohol_Served,permitted,informal,completely,low,familiar,f
+132830,Rincon Huasteco,No_Alcohol_Served,none,informal,completely,low,familiar,f
+132773,El cotorreo,Wine-Beer,permitted,informal,no_accessibility,low,familiar,f
+132706,Gorditas Dona Tota,No_Alcohol_Served,not permitted,informal,no_accessibility,medium,familiar,t
+132872,Pizzeria Julios,No_Alcohol_Served,not permitted,informal,partially,medium,familiar,f
+134987,Chilis Cuernavaca,Wine-Beer,none,informal,no_accessibility,medium,familiar,f
+132572,Cafe Chaires,No_Alcohol_Served,not permitted,informal,completely,low,familiar,f
+132958,tacos los volcanes,No_Alcohol_Served,none,informal,completely,low,quiet,t
+132733,Little Cesarz,No_Alcohol_Served,not permitted,informal,completely,medium,familiar,t
+132922,cafe punta del cielo,No_Alcohol_Served,permitted,formal,completely,medium,familiar,f
+132715,tacos de la estacion,No_Alcohol_Served,none,informal,no_accessibility,low,quiet,f
+135027,Restaurant Orizatlan,Wine-Beer,none,informal,no_accessibility,medium,familiar,f
+132767,Restaurant Familiar El Chino,Wine-Beer,permitted,casual,partially,medium,familiar,f
+135039,Restaurant de Mariscos de Picon,No_Alcohol_Served,section,informal,no_accessibility,low,familiar,f
+134996,Sanborns Casa Piedra,Wine-Beer,only at bar,informal,no_accessibility,medium,familiar,t
+132755,La Estrella de Dimas,No_Alcohol_Served,none,informal,partially,medium,familiar,f
+135043,pizza clasica,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f
+132654,Carnitas Mata  Calle 16 de Septiembre,No_Alcohol_Served,none,informal,completely,low,familiar,f
+135049,Restaurante de Mariscos la Langosta,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f
+135073,Restaurante Bar El Gallinero,Wine-Beer,section,informal,no_accessibility,high,familiar,f
+132560,puesto de gorditas,No_Alcohol_Served,permitted,informal,no_accessibility,low,familiar,f
+134976,Log Yin,No_Alcohol_Served,none,informal,no_accessibility,low,familiar,f
+135075,Mariscos El Pescador,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f
+132660,carnitas mata calle Emilio Portes Gil,No_Alcohol_Served,none,informal,completely,low,familiar,f
+132921,crudalia,Wine-Beer,section,casual,completely,low,quiet,f
+132594,tacos de barbacoa enfrente del Tec,No_Alcohol_Served,not permitted,informal,completely,low,familiar,f
+134986,Restaurant Las Mananitas,Wine-Beer,none,formal,no_accessibility,high,familiar,f
+135062,Restaurante El Cielo Potosino,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f
+132766,Mikasa,Wine-Beer,none,informal,no_accessibility,medium,familiar,f
+135088,Cafeteria cenidet,No_Alcohol_Served,not permitted,informal,no_accessibility,low,quiet,f
+135058,Restaurante Tiberius,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,t
+132754,Cabana Huasteca,No_Alcohol_Served,none,informal,partially,medium,familiar,f
+132584,Gorditas Dona Tota,No_Alcohol_Served,not permitted,informal,completely,medium,familiar,t
+135032,Cafeteria y Restaurant El Pacifico,Wine-Beer,section,informal,no_accessibility,medium,familiar,f
+135028,La Virreina,Wine-Beer,none,informal,no_accessibility,medium,familiar,f
+135085,Tortas Locas Hipocampo,No_Alcohol_Served,not permitted,informal,no_accessibility,medium,familiar,f
+132663,tacos abi,No_Alcohol_Served,none,informal,completely,low,familiar,f
+132626,la perica hamburguesa,No_Alcohol_Served,none,informal,completely,medium,familiar,t
+132583,McDonalds Centro,No_Alcohol_Served,not permitted,informal,partially,low,familiar,t
+132866,Chaires,No_Alcohol_Served,not permitted,informal,completely,medium,familiar,f
+135072,Sushi Itto,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f
+135109,Paniroles,Wine-Beer,not permitted,informal,no_accessibility,medium,quiet,f
+135019,Restaurant Bar Coty y Pablo,No_Alcohol_Served,none,informal,completely,low,familiar,f
+132877,sirloin stockade,No_Alcohol_Served,none,informal,completely,low,familiar,f
